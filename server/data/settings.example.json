@@ -1,0 +1,14 @@
+{
+  "text": {
+    "api_base": "https://api.deepseek.com",
+    "path": "/v1/chat/completions",
+    "api_key": "",
+    "model": "deepseek-v4-pro"
+  },
+  "vision": {
+    "api_base": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+    "path": "/chat/completions",
+    "api_key": "",
+    "model": "qwen-vl-max"
+  }
+}
